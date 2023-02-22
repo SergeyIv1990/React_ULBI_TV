@@ -112,7 +112,7 @@ return (
         <Pagination 
             page={page} 
             changePage={changePage} 
-            totalPages={totalPages}
+            totalPages={totalPages}   
         />
     
     <hr style={{margin: '15px 0'}}/>      
